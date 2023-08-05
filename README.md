@@ -11,5 +11,6 @@ The notions and references, divided by topic, we had to delve into to proceed in
 - Specific
   Edge Ideal of a weighted and unweighted graph, minimal free resolution of an ideal, Betti Numbers:
   https://arxiv.org/pdf/math/0410107.pdf, https://rb.gy/u7wur.
+  
 
 
