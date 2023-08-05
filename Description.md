@@ -1,7 +1,7 @@
 # Computational and combinatorial methods for Betti Numbers of weighted trees.
 _Page under development_
 
-- Results: I developed, together with Lorenzo Varesio, an algorithm in Python, based on a combinatorial approach, to evaluate Betti Numbers for weighted and non-weighted chains.
+- °Results: I developed, together with Lorenzo Varesio, an algorithm in Python, based on a combinatorial approach, to evaluate Betti Numbers for weighted and non-weighted chains.
 - Supervisors: prof. Roberto Notari (PoliMi) and prof. Paolo Lella (PoliMi).
 
 The idea of the project is to study the behavior of Betti numbers in weighted trees as the weights' values and their positions vary. Our contribution has specifically focused on studying chain graphs using computational methods in Python based on combinatorial considerations. 
