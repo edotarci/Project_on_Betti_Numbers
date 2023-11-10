@@ -16,6 +16,6 @@ The notions and references, divided by topic, we had to delve into to proceed in
 To confirm our results, develop conjectures and analyse Betti numbers we used the software system Macaulay2.(http://www2.macaulay2.com/Macaulay2/, https://www.unimelb-macaulay2.cloud.edu.au/#home) 
 
 General idea of the algorithm: the code takes the length of the chain as an input (and the wieghts of the edges) and returns the Betti numbers of the chain. To do so, instead of evaluating matrixes, lists of zeros and ones of progressive length are built and discarded according to precise rules. 
-Precise rules (and relative proof) will be added to this page when ready to be presented.
+Precise rules (and relative proof) will be added to this page when ready to be published.
 
   
